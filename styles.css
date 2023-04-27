@@ -1,0 +1,59 @@
+
+@import url("https://fonts.google.com/specimen/Outfit"); 
+
+body{
+    background-image: url('./images/favicon-32x32.png');
+
+}
+
+.container{
+    padding: 50px;
+    width: auto;
+    background-color: hsl(212, 45%, 89%);
+    margin: 30px;
+
+}
+
+
+#container{
+    max-width: 375px;
+    margin: 0 auto;
+    margin-top: 15px;
+    margin-bottom: 15px; 
+}
+
+.card{
+    background-color:hsl(0, 0%, 100%); 
+    border: 1px solid hsl(212, 45%, 89%);
+    border-radius: 14px;
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+}
+h1{
+    font-family: "Outfit";
+    font-weight: 700;
+    font-size: 25px;
+}
+
+p{
+    font-family: "Outfit";
+    font-weight: 400;
+    font-size: 15px;
+    color:hsl(220, 15%, 55%);
+}
+
+img{
+    width: 100%;
+    object-fit:cover;
+    border-radius: 14px;
+}
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
