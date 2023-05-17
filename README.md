@@ -2,5 +2,5 @@
 
 Finished Challenge#1 by Frontend Mentor!
 
-https://kdosa.github.io/kdosa.github.io./
+ https://kdosa.github.io/Challenge-1/
  
